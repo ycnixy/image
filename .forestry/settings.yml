@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: ''
 sections: 
 upload_dir: img
-public_path: "/media"
+public_path: https://cdn.jsdelivr.net/gh/ycnixy/image@main/img
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year::month::day:/:filename:"
