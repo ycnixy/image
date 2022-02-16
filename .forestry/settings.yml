@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: https://cdn.jsdelivr.net/gh/ycnixy/image@main/
+webhook_url: ''
 sections: 
 upload_dir: uploads
 public_path: "/media"
